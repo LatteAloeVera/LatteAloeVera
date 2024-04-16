@@ -1,4 +1,4 @@
-# Welcome 👋!
+<h1 align="center">Welcome 👋!</h1>
 
 ## About me:
 <b> --> I’m Ayberk, a student in Sakarya University! </b>
