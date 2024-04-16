@@ -1,7 +1,7 @@
 # Welcome 👋!
 
 ## About me
- - I’m Ayberk, a student in Sakarya University!
+<b> - I’m Ayberk, a student in Sakarya University! </b>
 
 ### What i really like
  - 🧇 Waffle 
