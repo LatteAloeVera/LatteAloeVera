@@ -1,17 +1,17 @@
 # Welcome 👋!
 
-## About me
-<b> - I’m Ayberk, a student in Sakarya University! </b>
+## About me:
+<b> --> I’m Ayberk, a student in Sakarya University! </b>
 
-### What i really like
+### What i really like:
  - 🧇 Waffle!
  - 🎲 Board games and DnD,
  - 👨🏻‍💻 A good designed code.
 
-### How to reach me
+### How to reach me:
   - 📫 [By e-mail](mailto:ayberklove@gmail.com)
 
-## About what i do
+## About what i do:
 - 🌱 I’m currently learning Java.
 - 💬 Ask me about  C/C++/C#, chtml, java, unity
   
