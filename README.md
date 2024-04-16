@@ -9,7 +9,7 @@
  - 👨🏻‍💻 A good designed code
 
 ### How to reach me
-  - 📫 [By e-mail](ayberklove@gmail.com)
+  - 📫 [By e-mail](mailto:ayberklove@gmail.com)
 
 ## About what i do
 - 🌱 I’m currently learning Java.
