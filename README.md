@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋!</h1>
 
 ## About me:
-<b> --> I’m Ayberk, a student in a University! </b>
+<b> --> I’m Ayberk, a student in Turkey! </b>
 
 ### What i really like:
  - 🧇 Waffle!
