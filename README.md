@@ -24,17 +24,11 @@
  - 📫 By e-mail: [ayberksvgi@gmail.com](mailto:ayberklove@gmail.com)
 <br/>
 
-## --> About what i do:
- - 🌱 I’m currently learning Java.
- - 💬 Ask me about  C/C++/C#, chtml, java, unity
-  
-
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LatteAloeVera&show_icons=true&locale=en&layout=compact" alt="LatteAloeVera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LatteAloeVera&show_icons=true&locale=en" alt="LatteAloeVera" /></p>
 -->
-<br/>
 <details>
   <summary><b>☄️ My Github Streaks</b></summary>
 
