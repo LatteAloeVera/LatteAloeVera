@@ -1,5 +1,4 @@
 <h1 align="center">Welcome!</h1>
-<br/>
 
 ## --> About me:
 <b> 👋 Hi, I'm Ayberk </b>
