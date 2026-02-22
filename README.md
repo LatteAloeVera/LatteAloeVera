@@ -1,19 +1,29 @@
 <h1 align="center">Welcome 👋!</h1>
 
 ## About me:
-<b> --> I’m Ayberk, a student in Turkey! </b>
+<b> --> 👋 Hi, I'm Ayberk </b>
 
-### What i really like:
- - 🧇 Waffle!
- - 🎲 Board games and DnD,
- - 👨🏻‍💻 A good designed code.
+### Who am I?
+ - 🎮 Aspiring Game Developer
+ - 💻 Computer Engineer
+ - 📍 Turkey
+
+### 🚀 What I'm Working On:
+ - 🐉 2D Dragon Platformer (Unity)
+
+## Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,vscode,git,cs,cpp,java,css,eclipse,py" />
+  </a>
+</p>
 
 ### How to reach me:
-  - 📫 [By e-mail](mailto:ayberklove@gmail.com)
+ - 📫 By e-mail: [ayberksvgi@gmail.com](mailto:ayberklove@gmail.com)
 
 ## About what i do:
-- 🌱 I’m currently learning Java.
-- 💬 Ask me about  C/C++/C#, chtml, java, unity
+ - 🌱 I’m currently learning Java.
+ - 💬 Ask me about  C/C++/C#, chtml, java, unity
   
 
 
