@@ -3,12 +3,12 @@
 ## --> About me:
 <b> 👋 Hi, I'm Ayberk </b>
 
-### Who am I?
+### - Who am I?
  - 🎮 Aspiring Game Developer
  - 💻 Computer Engineer
  - 📍 Turkey
 
-### 🚀 What I'm Working On:
+### - What I'm Working On:
  - 🐉 2D Dragon Platformer (Unity)
 
 <br/>
